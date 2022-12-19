@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "mint" #  "air", "aqua", "contrast", "dark", "dirt", 
 # Site Settings
 locale                   : "en-US"
 title                    : "한장의 사진으로 딥러닝하기"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김신엽"
 description              : "An amazing website."
