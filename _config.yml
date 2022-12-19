@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "한장의 사진으로 딥러닝하기"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "김신엽"
+name                     : "HoAh"
 description              : "An amazing website."
 url                      : "https://pictureones.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
